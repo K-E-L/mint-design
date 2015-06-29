@@ -11,7 +11,7 @@ Use https://github.com/linuxmint/mint-design/issues to discuss ideas, proposals,
 Websites
 --------
 
-Some of the Linux Mint websites use common PHP solutions (Wordpress for blog.linuxmint.com, PHPBB for forums.linuxmint.com), others are coded on top of PHP Frameworks such as CodeIgniter or even completely from scratch.
+Some of the Linux Mint websites use common PHP solutions (WordPress for blog.linuxmint.com and segfault.linuxmint.com, PHPBB for forums.linuxmint.com), others are coded on top of PHP Frameworks such as CodeIgniter or even completely from scratch.
 
 The development team is skilled in Web development but not in Web/Graphic design. In other words it's perfectly able to develop websites and to dress them with HTML/CSS. It's unable to make that look "pretty" though. That's where you come in and what this project is all about :)
 
